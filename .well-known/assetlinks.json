@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.danielwiedemann.worldcupschedule",
+        "sha256_cert_fingerprints": ["E0:3C:B2:4B:05:B1:34:1A:28:4E:EC:6A:F4:49:92:B3:98:A1:83:B9:86:18:5D:5C:55:3A:81:BE:23:DA:82:39"]
+      }
+    }]
